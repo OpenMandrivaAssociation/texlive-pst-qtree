@@ -46,6 +46,7 @@ The package provides a qtree-like front end for PSTricks.
 %doc %{_texmfdistdir}/doc/generic/pst-qtree/LICENSE
 %doc %{_texmfdistdir}/doc/generic/pst-qtree/pst-qtree-manual.pdf
 %doc %{_texmfdistdir}/doc/generic/pst-qtree/pst-qtree-manual.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -56,3 +57,5 @@ The package provides a qtree-like front end for PSTricks.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
