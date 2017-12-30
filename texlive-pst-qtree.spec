@@ -5,8 +5,8 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-pst-qtree
-Version:	20090920
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Simple syntax for trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-qtree
