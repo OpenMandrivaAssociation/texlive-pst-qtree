@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-pst-qtree
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	Simple syntax for trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-qtree
