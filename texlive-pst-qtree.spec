@@ -1,6 +1,6 @@
 Name:		texlive-pst-qtree
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Simple syntax for trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-qtree
