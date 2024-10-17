@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Simple syntax for trees
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-qtree
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-qtree
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-qtree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-qtree.doc.r%{version}.tar.xz
